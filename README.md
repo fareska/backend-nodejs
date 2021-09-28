@@ -1,4 +1,4 @@
-This project is a football game service which through users can get list of matches (and games results)
+This project is a football game service through which users can get list of matches (and games results)
 
 In the project directory, you can run:
 node server - you can define the port number which the server going to listen to in an env file otherwise the default prot is 5000.
